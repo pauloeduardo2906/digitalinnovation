@@ -1,6 +1,6 @@
 # Digital Innovation One
 
-## Santander Mobile Developer - Fundamentos de Orientação a Objetos com Kotlin
+## Santander Mobile Developer - Fundamentos de Orientaï¿½ï¿½o a Objetos com Kotlin
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ## Sobre o Projeto
 
-DESCRIÇÃO
+DESCRIï¿½ï¿½O
 
 
 ## Technologies :microscope:
@@ -16,7 +16,7 @@ DESCRIÇÃO
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white "Kotlin")
 
 
-## License ??
+## License :memo:
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/pauloeduardo2906/digitalinnovation/blob/main/LICENSE "LICENSE") file for details.
 
