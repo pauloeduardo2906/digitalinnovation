@@ -1,6 +1,6 @@
 # Digital Innovation One
 
-## Santander Mobile Developer - Fundamentos de Orienta��o a Objetos com Kotlin
+## Santander Mobile Developer - Fundamentos de Orientação a Objetos com Kotlin
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ## Sobre o Projeto
 
-DESCRI��O
+DESCRIÇÃO
 
 
 ## Technologies :microscope:
