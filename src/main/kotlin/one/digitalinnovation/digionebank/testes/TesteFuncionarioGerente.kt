@@ -5,9 +5,10 @@ import one.digitalinnovation.digionebank.Funcionario
 import one.digitalinnovation.digionebank.Pessoa
 
 fun main(){
-    val dexter = Gerente(nome = "Dexter Morgan", cpf = "564987321", salario = 5000.0)
+    val dexter = Gerente(nome = "Dexter Morgan", cpf = "564987321", salario = 5000.0, senha = "SenhaMuitoForte")
 
     ImprimeRelatorioFuncionario.imprime(dexter)
 
-}
+    TesteAutenticacao().autentica(dexter)
 
+}
