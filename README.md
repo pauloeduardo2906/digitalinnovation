@@ -8,7 +8,21 @@
 
 ## Sobre o Projeto
 
-DESCRIÇÃO
+**O QUE APRENDI**
+
+- Conceito de Classes (Públicas e Privadas)
+- Membros de Uma Classe
+- Inner Class
+- Construtor Secundário e Construtor Primário
+- Data Class
+- Enum Class
+- Companion Object
+- Abstração
+- Interface
+- Herança
+- Polimorfismo
+
+
 
 
 ## Technologies :microscope:
